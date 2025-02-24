@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "c30640cb6317c034",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c205096dfbd4199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c693e686c9308cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2014-06-07-gozdedeki-degisiklikler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2014-06-07-gozdedeki-degisiklikler"
+            }
+          },
+          {
+            "id": "34c922d4b95d927e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bijtij.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bijtij"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "698a4781971743e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d368f54829ae0b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4aed2f19dcc30e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf547fea21402b84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dc8f415904c7dd38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b7a56da0210797b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3295ee22dc3d165",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe20fee1bb235ca0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bijtij.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for bijtij"
+            }
+          },
+          {
+            "id": "dfad06b1c052ad54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bijtij.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from bijtij"
+            }
+          },
+          {
+            "id": "57d4b29cbeb175ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8f0a3a75bcdd1889",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bijtij.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of bijtij"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "34c922d4b95d927e",
+  "lastOpenFiles": [
+    "2014-06-07-gozdedeki-degisiklikler.md",
+    "bijtij.md",
+    "2014-04-26-tasnma.md",
+    "2014-04-23-tasnmak.md",
+    "2014-04-20-aile-haberi-ald.md",
+    "2014-04-19-ikinci-gun.md"
+  ]
+}
