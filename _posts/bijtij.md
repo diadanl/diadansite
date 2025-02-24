@@ -1,3 +1,8 @@
+---
+layout: post
+title: Obsidian test
+categories: jekyll update
+---
 fghfghfgh 
 df
  d
